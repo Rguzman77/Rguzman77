@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo Emmanuel Guzmán</h1>
+<h1 align="center">Hi 👋, I'm Emmanuel Guzmán</h1>
 <h3 align="center">A passionate junior fullstack developer based in Barcelona</h3>
 
 - 🔭 I’m currently working on [Enlace Urbano](https://github.com/orgs/Enlace-Urbano/repositories)
