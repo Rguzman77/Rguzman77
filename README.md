@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Guzmán</h1>
 <h3 align="center">A passionate junior fullstack developer based in Barcelona</h3>
 
-- 🔭 I’m currently working on [Enlace Urbano](https://github.com/orgs/Enlace-Urbano/repositories)
+- 🔭 I’m currently working on [KatChat](https://github.com/Rguzman77/KatChat)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Svelte**
 
 - 📫 How to reach me **rguzman_7@hotmail.com**
 
