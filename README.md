@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KatChat](https://github.com/Rguzman77/KatChat)
 
-- 🌱 I’m currently learning **Svelte**
+- 🌱 I’m currently learning **Appium**
 
 - 📫 How to reach me **rguzman_7@hotmail.com**
 
